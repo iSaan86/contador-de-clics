@@ -14,12 +14,8 @@ Incluye un contador funcional, un botón para incrementarlo y un botón para rei
 ## 📸 Vista previa
 
 
- `![Vista previa de la app](src/imagenes/captura.png)`
+![Vista previa](src/imagenes/captura.png)
 
-```
-![Vista previa de la app](src/imagenes/captura.png)
-
-```
 
 ---
 
