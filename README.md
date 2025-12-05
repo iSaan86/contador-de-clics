@@ -4,6 +4,8 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
+[![Autor: Alexandra Ferrera](https://img.shields.io/badge/Autor-Alexandra%20Ferrera-blue?style=flat-square)](https://github.com/AlexandraFerrera)
+
 Aplicación minimalista creada con **React** como parte de un curso introductorio.
 Incluye un contador funcional, un botón para incrementarlo y un botón para reiniciarlo, construidos mediante **componentes reutilizables** y gestionados con el hook **useState**.
 
@@ -92,7 +94,5 @@ Ejercicio básico, centrado en reforzar el uso de **useState**, los componentes 
 
 Este proyecto es de código abierto bajo la licencia **MIT**.
 
----
 
-[![Autor: Alexandra Ferrera](https://img.shields.io/badge/Autor-Alexandra%20Ferrera-blue?style=flat-square)](https://github.com/AlexandraFerrera)
 
