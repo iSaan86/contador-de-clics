@@ -86,6 +86,19 @@ Ejercicio básico, centrado en reforzar el uso de **useState**, los componentes 
 
 ---
 
+## 👩‍💻� Sobre mí
+
+Soy Alexandra Ferrera, Desarrolladora Frontend & UX/UI. Para cualquier consulta, oportunidad laboral o colaboración, no dudes en contactarme.
+
+- [Porfolio Alexandra Ferrera](https://alexandra-ferrera-portfolio.netlify.app/)
+- [Perfil de Linkedin](https://www.linkedin.com/in/alexandra-ferrera-arenas/)
+- [Correo Electrónico](sandraferreraarenas@gmail.com)
+
+
+#frontenddeveloper #webdevelopment #frontend #html #css #javascript #uxui #webdesign #design #responsive #cleanCode
+
+---
+
 ## 📝 Licencia
 
 Este proyecto es de código abierto bajo la licencia **MIT**.
