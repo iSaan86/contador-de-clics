@@ -12,10 +12,11 @@ Incluye un contador funcional, un botón para incrementarlo y un botón para rei
 ## 📸 Vista previa
 
 
- `![Vista previa de la app](./src/imagenes/captura.png)`
+ `![Vista previa de la app](src/imagenes/captura.png)`
 
 ```
-👉 Aquí irá la captura de tu app (contador y botones)
+![Vista previa de la app](src/imagenes/captura.png)
+
 ```
 
 ---
@@ -93,11 +94,5 @@ Este proyecto es de código abierto bajo la licencia **MIT**.
 
 ---
 
-Si quieres, te preparo también:
+[![Autor: Alexandra Ferrera](https://img.shields.io/badge/Autor-Alexandra%20Ferrera-blue?style=flat-square)](https://github.com/AlexandraFerrera)
 
-🌟 Una versión más visual
-🎨 Una versión con colores personalizados
-📄 Una plantilla para futuros proyectos
-🚀 O incluso una versión en inglés para tu portfolio internacional
-
-¿Quieres otra variante?
